@@ -5,7 +5,7 @@ UI, and talks to a local Blockchain network. This app uses Blockchain to save ac
 . NodeJS is used to develop, test and deploy the app.
 
 Used stack:
-# Ganash : self-hosted image personal Etherium Blockchain network
-# Ganash-CLI:
+# Ganach : self-hosted image personal Etherium Blockchain network
+# Ganach-CLI:
 # Truffle : framework used to interact with immutable smart contracts inside blockchain
 # Metamask : API used to host accounts and make transactions with Blockchain networks, like Etherium, ..etc
